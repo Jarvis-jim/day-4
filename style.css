@@ -54,9 +54,12 @@ header .nav ul li a{
     background-color: #b7defd;
     width: 100%;
     height: 700px;
-    display: flex;
+    
     justify-content: space-between;
     align-items: center;
+}
+.header-title{
+    display: flex;
 }
 
 .href{
